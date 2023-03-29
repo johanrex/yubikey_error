@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <Reference Include="testlib">
-      <HintPath>..\..\..\pythonnet_test\cs\testlib\out\testlib.dll</HintPath>
+      <HintPath>..\testlib\out\testlib.dll</HintPath>
     </Reference>
   </ItemGroup>
 
