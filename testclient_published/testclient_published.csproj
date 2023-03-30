@@ -8,9 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="testlib">
-      <HintPath>..\testlib\out\testlib.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\testlib\testlib.csproj" />
   </ItemGroup>
 
 </Project>
